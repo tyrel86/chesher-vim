@@ -1,0 +1,13 @@
+The Chsher VIM setting
+(: coding is an art :)
+
+These are my vim settings just getting started so its basic
+Install
+git clone blahblahblah
+ln -s ~/.vim/vimrc ~/.vimrc
+ln -s ~/.vim/gvimrc ~/.gvimrc
+
+Features as of yet
+
+Pathogyn loading mod
+NERDTree directory tree

@@ -1,11 +1,2 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =9
-let g:netrw_dirhist_1='/home/tyrel/code/rails'
-let g:netrw_dirhist_2='ftp://topsearc@topsearchtestserver.com//'
-let g:netrw_dirhist_3='ftp://topsearc@topsearchtestserver.com//public_html/'
-let g:netrw_dirhist_4='/home/tyrel/.vim'
-let g:netrw_dirhist_5='ftp://topsearc@topsearchtestserver.com//public_html/'
-let g:netrw_dirhist_6='ftp://topsearc@topsearchtestserver.com//'
-let g:netrw_dirhist_7='ftp://topsearc@topsearchtestserver.com//public_html/aviation/'
-let g:netrw_dirhist_8='ftp://topsearc@topsearchtestserver.com//public_html/aviation/wp-content/'
-let g:netrw_dirhist_9='/home/tyrel/.vim/.git'
+let g:netrw_dirhist_cnt =0
