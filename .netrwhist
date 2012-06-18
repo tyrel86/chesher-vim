@@ -1,11 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =9
-let g:netrw_dirhist_1='/home/tyrel/code/rails/accountabilityconductor'
-let g:netrw_dirhist_2='ftp://topsearc@topsearchtestserver.com/public_html/'
-let g:netrw_dirhist_3='ftp://topsearc@topsearchtestserver.com/public_html/aviation/'
-let g:netrw_dirhist_4='ftp://topsearc@topsearchtestserver.com//'
-let g:netrw_dirhist_5='ftp://topsearc@topsearchtestserver.com//public_html/'
-let g:netrw_dirhist_6='ftp://topsearc@topsearchtestserver.com//public_html/aviation/'
-let g:netrw_dirhist_7='ftp://topsearc@topsearchtestserver.com//public_html/aviation/wp-content/'
-let g:netrw_dirhist_8='ftp://topsearc@topsearchtestserver.com//public_html/aviation/wp-content/themes/'
-let g:netrw_dirhist_9='ftp://topsearc@topsearchtestserver.com//public_html/aviation/wp-content/themes/corporate/'
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/tyrel/code/rails/CannaPages'
+let g:netrw_dirhist_2='/home/tyrel/code/rails/rubytime'
+let g:netrw_dirhist_3='/home/tyrel'
+let g:netrw_dirhist_4='/home/tyrel/code/rails/CannaPages'

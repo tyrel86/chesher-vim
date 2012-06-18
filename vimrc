@@ -15,6 +15,9 @@ set number
 "Set color scheme
 colorscheme jellybeans
 
+"Turn mouse into virtual mouse disable with shift
+set mouse=a
+
 "Key mappings
 let mapleader = "\\"
 map <leader>n :execute 'NERDTreeToggle ' . getcwd()<CR>
