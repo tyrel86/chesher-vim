@@ -5,7 +5,6 @@ call pathogen#infect()
 syntax on
 
 "Indent and spacing settings
-filetype plugin indent on
 set ts=2
 set bs=2
 
@@ -21,3 +20,5 @@ set mouse=a
 "Key mappings
 let mapleader = "\\"
 map <leader>n :execute 'NERDTreeToggle ' . getcwd()<CR>
+map <leader>f :execute 'FufCoverageFile' <CR>
+map <leader>d :execute 'FufFile' <CR>
