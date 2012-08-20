@@ -7,6 +7,7 @@ syntax on
 "Indent and spacing settings
 set ts=2
 set bs=2
+set shiftwidth=2
 
 "Turn line numbers on
 set number
