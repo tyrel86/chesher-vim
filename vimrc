@@ -1,8 +1,13 @@
 "Pathogen modular plugin loader
 call pathogen#infect()
 
-"Enable Syntax highlighting
+"Enable Syntax highlighting and set custom file types
 syntax on
+au BufNewFile,BufRead *.thor set filetype=ruby
+au BufNewFile,BufRead *.make set filetype=ruby
+au BufNewFile,BufRead *.sass set filetype=css
+au BufNewFile,BufRead *.less set filetype=css
+
 
 "Indent and spacing settings
 set ts=2
