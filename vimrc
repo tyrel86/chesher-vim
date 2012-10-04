@@ -17,6 +17,9 @@ set shiftwidth=2
 "Turn line numbers on
 set number
 
+"Turn text wrapping off
+set nowrap
+
 "Set color scheme
 colorscheme jellybeans
 
