@@ -8,6 +8,8 @@ au BufNewFile,BufRead *.make set filetype=ruby
 au BufNewFile,BufRead *.sass set filetype=css
 au BufNewFile,BufRead *.less set filetype=css
 
+"Change swap directory
+set directory=~/.vim/swp
 
 "Indent and spacing settings
 set ts=2
