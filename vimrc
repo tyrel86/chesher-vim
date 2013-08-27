@@ -8,8 +8,6 @@ au BufNewFile,BufRead *.make set filetype=ruby
 au BufNewFile,BufRead *.sass set filetype=css
 au BufNewFile,BufRead *.less set filetype=css
 
-"Change swap directory
-set directory=~/.vim/swp
 
 "Indent and spacing settings
 set ts=2
@@ -33,3 +31,6 @@ let mapleader = "\\"
 map <leader>n :execute 'NERDTreeToggle ' . getcwd()<CR>
 map <leader>f :execute 'FufCoverageFile' <CR>
 map <leader>d :execute 'FufFile' <CR>
+
+"Inable clip board coppying
+vmap <C-c> "+y
