@@ -4,6 +4,8 @@ The Chsher VIM setting
 These are my vim settings just getting started so its basic
 Install
 git clone blahblahblah
+mv .vim .vim-pre-cheshire
+mv cheshire .vim
 ln -s ~/.vim/vimrc ~/.vimrc
 ln -s ~/.vim/gvimrc ~/.gvimrc
 
