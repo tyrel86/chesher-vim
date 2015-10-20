@@ -5,7 +5,7 @@ These are my vim settings just getting started so its basic
 Install
 git clone blahblahblah
 mv .vim .vim-pre-cheshire
-mv cheshire .vim
+mv chesher-vim/ .vim
 ln -s ~/.vim/vimrc ~/.vimrc
 ln -s ~/.vim/gvimrc ~/.gvimrc
 
@@ -20,3 +20,4 @@ TComment coment uncoment selection or lines
 VIM Suround
 VIM Indent Guids
 Jelly Beans Color Scheme
+Rust Lang Support
